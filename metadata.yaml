@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25684
     wikipedia: http://en.wikipedia.org/wiki/Handley_Moule
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25221#Philippian-StudiesLessons-in-Faith-and-Love-from-St.-Paul-s-Epistle-to-the-Philippians
 gutenberg_issued: '2008-04-28'
 gutenberg_type: Text
 identifiers:
