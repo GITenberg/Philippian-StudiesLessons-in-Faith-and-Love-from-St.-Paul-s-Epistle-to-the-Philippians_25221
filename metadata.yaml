@@ -1,0 +1,32 @@
+_repo: Philippian-StudiesLessons-in-Faith-and-Love-from-St.-Paul-s-Epistle-to-the-Philippians_25221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moule, H. C. G. (Handley Carr Glyn)
+    aliases:
+    - Moule, Handley C. G. (Handley Carr Glyn)
+    - Moule, Handley Carr Glyn, Bp. of Durham
+    birthdate: 1841
+    deathdate: 1920
+    gutenberg_agent_id: '25684'
+    url: http://www.gutenberg.org/2009/agents/25684
+    wikipedia: http://en.wikipedia.org/wiki/Handley_Moule
+description: ''
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Philippians -- Commentaries'
+- !lcc 'BS'
+title: 'Philippian Studies
+
+  Lessons in Faith and Love from St. Paul''s Epistle to the Philippians'
+url: http://www.gutenberg.org/ebooks/25221
